@@ -1,0 +1,16 @@
+{
+
+	"common": {
+		"database": {
+			"hostname" : "128.199.209.17",
+			"username" : "blasterv3_user",
+			"password" : "blasterv3_user1",
+			"database" : "advantage",
+			"port"     : 3306
+		}
+	},
+	"dlr": {
+		"dlr_url": "http://128.199.209.17:8085",
+		"_id": "1"
+	}
+}

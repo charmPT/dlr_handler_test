@@ -1,0 +1,19 @@
+{
+  "name": "advantage-tests",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "mysql": "^2.5.0",
+    "nconf": "^0.6.9",
+    "should": "^4.0.4",
+    "sequelize": "^1.7.10"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
